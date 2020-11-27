@@ -1,11 +1,11 @@
 ---
 layout: tag-list
-title: Algorithm
+title: LeetCode
 slug: algorithm
-category: devlog
+category: Algorithm
 menu: false
 submenu: true
 order: 1
 description: >
-   Algorithm study / Problem solutions
+   LeetCode Algorithm Solution
 ---
