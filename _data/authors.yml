@@ -2,20 +2,18 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              DaeIn Lee
-  email:             daein0lee@gmail.com
+  name:              ByeongJun Ahn
+  email:             libdwct@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    SW Engineer at [Samsung Research](https://research.samsung.com/).<br>
-    Please check my [Resume][resume] to find out more about me!<br>
 
-    [resume]: /resume/
+    [resume]: 
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/seattle.png
+    path:            /assets/img/mainprofile.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # srcset:
     #   1x:
@@ -25,11 +23,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    linkedin:        daein-lee-3b6ba9139
-    github:          lazyren
-    stackoverflow:   4294737
-    email:           lazy0ren@gmail.com
-    resume:          /resume/
+    #linkedin:        
+    github:          libdwct
+    #stackoverflow:   
+    email:           ahnbj0@gmail.com
+    # resume:          
     # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
     # google:          <number>
