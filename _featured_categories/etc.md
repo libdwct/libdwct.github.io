@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Review
-slug: review
+title: ETC
+slug: etc
 menu: true
 submenu: false
 order: 3
 description: >
-  Reviews on hardware/software
+  기타 등등
 ---
