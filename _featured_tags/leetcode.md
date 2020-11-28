@@ -2,7 +2,7 @@
 layout: tag-list
 title: LeetCode
 slug: algorithm
-category: Algorithm
+category: lgorithm
 menu: false
 submenu: true
 order: 1
