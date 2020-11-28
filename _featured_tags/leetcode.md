@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 title: LeetCode
-slug: algorithm
-category: lgorithm
+slug: leetcode
+category: algorithm
 menu: false
 submenu: true
 order: 1
