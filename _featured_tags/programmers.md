@@ -1,6 +1,6 @@
 ---
 layout: tag-list
-title: 프로그래머스
+title: Programmers
 slug: programmers
 category: algorithm
 menu: false
