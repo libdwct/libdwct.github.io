@@ -4,7 +4,7 @@ title: ETC
 slug: etc
 menu: true
 submenu: false
-order: 3
+order: 4
 description: >
   기타 등등
 ---
