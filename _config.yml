@@ -433,4 +433,5 @@ sass:
 feed:
   categories:
     - algorithm
+    - data analysis
     - etc
