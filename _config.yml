@@ -432,6 +432,7 @@ sass:
 # jekyll-feed settings
 feed:
   categories:
+    - resume
     - algorithm
     - data analysis
     - etc
