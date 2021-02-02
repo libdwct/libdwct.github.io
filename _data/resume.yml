@@ -6,8 +6,9 @@ basics:
   phone: "(82) 010-2736-5474"
   website: "https://libdwct.github.io/"
   summary: >
-    안녕하세요. 세계 탑 급의 데이터 엔지니어 및 데이터 사이언티스트를 꿈꾸는 신입 개발자입니다.<br>
+    안녕하세요. 최고의 데이터 엔지니어 및 데이터 사이언티스트를 꿈꾸는 신입 개발자입니다.<br>
     새로운 것을 배우는 것을 좋아하고, 무언가를 할 때 열정적으로 파고듭니다.<br>
+    Softwear Engineering 분야에도 관심이 있습니다.  
   # location:
   #   address: "2712 Broadway St"
   #   postalCode: "CA 94115"
@@ -26,15 +27,15 @@ work:
     endDate: "2019-11-15"
     summary:
     highlights:
-      - "data preprocessing"
+      - "Data preprocessing"
       - "Machine Learning"
       - "Deep Learning - image, NLP"
       - "BM project"
 
 education:
-  - institution: "Korea University, Seoul"
-    area: "Industrial Management Engineering"
-    studyType: "Bachelor"
+  - institution: "고려대학교(안암)"
+    area: "산업경영공학부 전공"
+    studyType: "학사 학위 취득"
     startDate: "2013-03-01"
     endDate: "2019-08-24"
     gpa: "3.47 (major 3.8) / 4.5"
@@ -50,8 +51,8 @@ projects:
     startDate: "2019-10-10"
     endDate: "2019-11-09"
     summary: >
-      공공 CCTV 이미지 및 영상 인식을 통한 돌발상황(폭행) 감지 및 경고 알림 서비스 모델 개발"<br>
-      인공지능 BM 과정 교육 수료 중 진행
+      인공지능 BM 과정 교육 수료 중 진행<br>
+      공공 CCTV 이미지 및 영상 인식을 통한 돌발상황(폭행) 감지 및 경고 알림 서비스 모델 개발 <br>      
     url: 
     highlights:
       - "기술 구현 파트 담당"
@@ -62,10 +63,13 @@ projects:
   - title: "서울시 공공자전거 따릉이 재분배 개선 방안 시뮬레이션"
     startDate: "2018-10-15"
     endDate: "2018-11-20"
-    summary: "따릉이가 부족하여 대여 불가능한 상황이 자주 발생하는 대여소에 대하여, 부족 현상이 일어나지 않도록 시뮬레이션을 이용하여 대안 제시"
+    summary: >
+      전공과목 "시뮬레이션 실습" 중 진행
+      따릉이가 부족하여 대여 불가능한 상황이 자주 발생하는 대여소에 대하여, 부족 현상이 일어나지 않도록 시뮬레이션을 이용하여 대안 제시 <br>
     url: 
     highlights:
       - "서울시 따릉이 대여 및 반납 데이터 전처리 및 분포 피팅, 검정 담당"
+      - "일주일을 1시간 단위로 나눈 168개의 케이스에 대해 각각 모델링하여, 시간대 별 최적의 재분배 시기 및 재분배 수 제시"
   
 #awards:
 #  - title:
