@@ -1,8 +1,6 @@
 ---
 layout: resume
 title: Resume
-permalink: /resume/
-menu: true
 description: 
 hide_description: true
 left_column:
@@ -12,5 +10,6 @@ right_column:
  - languages
  - skills
  - interests
- order: 1
+order: 1
+no_buttons: false
 ---
