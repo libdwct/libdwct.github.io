@@ -39,7 +39,7 @@ education:
     endDate: "2019-08-24"
     gpa: "3.47 (major 3.8) / 4.5"
     courses:
-      - "Concurrent Programming"
+      - "Statistics"
       - "Data Mining"
       - "Data Structure and Algorithm"
       - "Database Systems"
