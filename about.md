@@ -3,8 +3,7 @@ layout: welcome
 title: About
 permalink: /about/
 #more_posts: posts.md
-menu: true
-order: 5
+menu: false
 ---
 
 # Hello, World!
