@@ -56,13 +56,13 @@ author:
     resume:          
 
 # Add links to the sidebar.
-menu:
+#menu:
 #   - title:             Blog
 #     url:               /blog/
 #   - title:             Projects
 #     url:               /projects/ 
-  - title:             Resume
-    url:               /resume/
+#  - title:             Resume
+#    url:               /resume/
 #   - title:             Documentation
 #     url:               /docs/
 
