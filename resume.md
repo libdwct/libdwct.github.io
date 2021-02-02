@@ -4,6 +4,7 @@ title: Resume
 description: 
 hide_description: true
 left_column:
+ - work
  - education
  - projects
 right_column:
