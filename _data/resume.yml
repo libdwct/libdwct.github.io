@@ -19,8 +19,8 @@ basics:
       username: "https://github.com/libdwct"
       url: "https://github.com/libdwct"
 work:
-  - company: "인공지능 BM 과정"
-    # position: "student"
+  - company: "AI Innovation Square"
+    position: "인공지능 BM 과정 수료"
     website:
     startDate: "2019-09-01"
     endDate: "2019-11-15"
