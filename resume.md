@@ -10,6 +10,7 @@ right_column:
  - languages
  - skills
  - interests
-order: 1
+no_language_icons: false
+no_skill_icons: false
 no_buttons: false
 ---
