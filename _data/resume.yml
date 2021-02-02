@@ -1,7 +1,7 @@
 basics:
   name: "안병준(ByeongJun Ahn)"
   label: "Data Analyst"
-  picture: "/assets/img/myprofile.jpg"
+  picture: /assets/img/myprofile.jpg
   email: "libdwct@gmail.com"
   phone: "(82) 010-2736-5474"
   website: "https://libdwct.github.io/"
