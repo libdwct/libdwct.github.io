@@ -8,8 +8,9 @@ left_column:
  - education
  - projects
 right_column:
- - languages
+ - certifications
  - skills
+ - languages
  - interests
 no_language_icons: false
 no_skill_icons: false
