@@ -1,14 +1,15 @@
 basics:
   name: "안병준(ByeongJun Ahn)"
-  label: "Data Analyst"
+  label: "데이터를 좋아하는 개발자"
   picture: /assets/img/myprofile.jpg
   email: "libdwct@gmail.com"
   phone: "(82) 010-2736-5474"
   website: "https://libdwct.github.io/"
   summary: >
-    안녕하세요. 최고의 데이터 엔지니어 및 데이터 사이언티스트를 꿈꾸는 신입 개발자입니다.<br>
-    새로운 것을 배우는 것을 좋아하고, 무언가를 할 때 열정적으로 파고듭니다.<br>
-    Softwear Engineering 분야에도 관심이 있습니다.  
+    빅데이터 엔지니어 및 분석가를 희망하는 신입 개발자입니다.<br>
+    그동안 학부 및 인공지능 교육에서 데이터를 다루는 기술을 익혔고 여러 서적을 공부하면서 실력을 쌓아왔습니다.<br>
+    무언가를 배우는 것에 열정적이고 무엇이든 하면 된다라는 긍정적인 마인드로 세상을 바라봅니다.
+      
   # location:
   #   address: "2712 Broadway St"
   #   postalCode: "CA 94115"
@@ -38,7 +39,7 @@ education:
     studyType: "학사 학위"
     startDate: "2013-03-01"
     endDate: "2019-08-24"
-    gpa: "3.47 (major 3.8) / 4.5"
+    gpa: "3.47 (major 3.7) / 4.5"
     courses:
       - "Statistics"
       - "Data Mining"
@@ -47,19 +48,6 @@ education:
       - "Simulation"
 
 projects:
-  - title: "딥러닝을 이용한 CCTV 돌발상황 감지 "
-    startDate: "2019-10-10"
-    endDate: "2019-11-09"
-    summary: >
-      인공지능 BM 과정 교육 수료 중 진행<br>
-      공공 CCTV 이미지 및 영상 인식을 통한 돌발상황(폭행) 감지 및 경고 알림 서비스 모델 개발 <br>      
-    url: 
-    highlights:
-      - "기술 구현 파트 담당"
-      - "CCTV 영상 데이터 전처리"
-      - "YOLO를 이용하여 이미지 인식, LSTM을 이용하여 영상인식 프로토타입 개발"
-      - "Accuracy: 63%, Recall: 79% 달성"
-
   - title: "서울시 공공자전거 따릉이 재분배 개선 방안 시뮬레이션"
     startDate: "2018-10-15"
     endDate: "2018-11-20"
@@ -86,24 +74,21 @@ projects:
 skills:
   - name: "Python Programming"
     level: "Master"
-    keywords:
-      - "Machine Learning"
-      - "Deep Learning"
   - name: "Java Programming"
     level: "Intermediate"
   - name: "R Programming"
     level: "Intermediate"
   - name: "Algorithm"
     level: "Intermediate"
-  - name: "Web Development"
-    level: "Junior"
+  - name: "Linux"
+    level: "intermediate"
     keywords:
       - "HTML/CSS"
       - "Markdown"
   - name: "Sociability"
     level: "Master"
     keywords:
-      - "Leadership"
+      - "Communication"
 languages:
   - language: "Korean"
     fluency: "Native speaker"
@@ -114,10 +99,6 @@ interests:
     keywords:
       - "Soccer"
       - "Snowboard"
-  - name: "Gaming"
-    keywords:
-      - "Legend of Zelda"
-      - "League of Legend"
   - name: "Mobile game development"
     keywords:
       - "C#"
