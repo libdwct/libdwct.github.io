@@ -1,6 +1,6 @@
 ---
-layout: resume
-title: Resume
+layout: 
+title: 
 description: 
 hide_description: true
 left_column:
