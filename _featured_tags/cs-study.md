@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 title: CS Study
-slug: cs study
+slug: cs-study
 category: yeardream
 menu: false
 submenu: true
