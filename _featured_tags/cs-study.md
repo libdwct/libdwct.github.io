@@ -2,7 +2,7 @@
 layout: tag-list
 title: CS Study
 slug: cs-study
-category: yeardream
+category: study
 menu: false
 submenu: true
 order: 1
